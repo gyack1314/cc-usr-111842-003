@@ -1,0 +1,15 @@
+{
+  "primary_keys": {
+    "observations": [
+      "observation_id"
+    ],
+    "target_map": [
+      "map_key"
+    ]
+  },
+  "mapping_key": "source_target:mapping_version，两个分量均为不含冒号的不透明字符串",
+  "branches": [
+    "main",
+    "review"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "observations": [
+    {
+      "observation_id": "O1",
+      "map_key": "T1:v1",
+      "score": "0.5"
+    }
+  ],
+  "target_map": [
+    {
+      "map_key": "T1:v1",
+      "canonical_target": "G1"
+    }
+  ]
+}

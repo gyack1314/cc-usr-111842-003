@@ -1,0 +1,28 @@
+[
+  {
+    "branch": "review",
+    "op": "delete",
+    "table": "target_map",
+    "key": "T1:v1"
+  },
+  {
+    "branch": "main",
+    "op": "insert",
+    "table": "observations",
+    "row": {
+      "observation_id": "O2",
+      "map_key": "T1:v1",
+      "score": "0.7"
+    }
+  },
+  {
+    "branch": "review",
+    "op": "insert",
+    "table": "observations",
+    "row": {
+      "observation_id": "O3",
+      "map_key": "T2:v1",
+      "score": "0.2"
+    }
+  }
+]
