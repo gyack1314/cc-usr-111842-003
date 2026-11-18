@@ -17,18 +17,18 @@
     },
     {
       "file": "seed.json",
-      "sha256": "2c17a37427b693ecea1dfc47093bcaa5abc16fa5c54e1e0ddb4e61c61e95163e",
-      "bytes": 224
+      "sha256": "1193f7c0c0f6f8114f526b39651d821e065ca764aad37247c392ffd65d024fe8",
+      "bytes": 209
     },
     {
       "file": "events.json",
-      "sha256": "77195dbe58b9c6ef1453e4d81c361db0a506e7d107a3b876a0ec47b6db177005",
-      "bytes": 484
+      "sha256": "1ae11f9bab34800cce62a0f076b6f3740049157f2c0c73704befd581a8721d39",
+      "bytes": 456
     },
     {
       "file": "contracts.json",
-      "sha256": "dd36711e301d8b08c56dee0761f5b9899e849a4f4e98c03850559f88718fa6c4",
-      "bytes": 287
+      "sha256": "1474f6e294318497aee1d41a93d310a6182d71b925115f0e3f40a3aa2aa0f419",
+      "bytes": 272
     }
   ]
 }
